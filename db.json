@@ -26,6 +26,18 @@
       "date": "12.03.2022"
     }
   ],
+  
+  "budgetCategory": [
+    {
+      "category": "Marketing",
+      "sum": 131566
+    },
+    {
+      "category": "Sallarys",
+      "sum": 213546
+    }
+  ],
+  
   "profile": {
     "name": "sharshekeev13"
   }
