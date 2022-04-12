@@ -1,138 +1,29 @@
 {
-  "posts": [
+  "completedToDo": [
     {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
+      "title": "To Do",
+      "description": "iasdsajansckamsclancajsncjkasncn",
+      "date": "12.03.2022"
+    },
+   {
+      "title": "To Do",
+      "description": "iasdsajansckamsclancajsncjkasncn",
+      "date": "12.03.2022"
     },
     {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
+      "title": "To Do",
+      "description": "iasdsajansckamsclancajsncjkasncn",
+      "date": "12.03.2022"
     },
     {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
+      "title": "To Do",
+      "description": "iasdsajansckamsclancajsncjkasncn",
+      "date": "12.03.2022"
     },
     {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    },
-    {
-      "firstName": "Dastan",
-      "secondNAme": "Sharshekeev",
-      "position": "Manager",
-      "salary": "50000"
-    }
-  ],
-  "budget": [
-    {
-      "socialmedia": "instagram",
-      "members": 15615621,
-      "budget": 15616,
-      "icon": "https://cdn-icons-png.flaticon.com/512/174/174855.png"
-    },
-    {
-      "socialmedia": "facebook",
-      "members": 21651612,
-      "budget": 15616,
-      "icon": "https://www.facebook.com/images/fb_icon_325x325.png"
-    },
-    {
-      "socialmedia": "twitter",
-      "members": 35486712,
-      "budget": 15616,
-      "icon": "https://cdn-icons-png.flaticon.com/512/733/733579.png"
-    },
-    {
-      "socialmedia": "whatsapp",
-      "members": 43156112,
-      "budget": 15616,
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png"
-    }
-  ],
-  "todo": [
-    {
-      "title": "skazat privet",
-      "discription": "asoijdas dasjdopasod asdoaskodkas dasasdaspd asasmd;lasjdasjd"
-    },
-    {
-      "title": "chto to sdelat",
-      "discription": "aslkjdlka sdjasl;d;askdasdoa jsdj;as;dsa"
-    },
-    {
-      "title": "kak to sdelat",
-      "discription": "asdljasjdlkasldhasldl alksdlasj  asdasl a as"
-    },
-    {
-      "title": "nuu sdelal navernoe",
-      "discription": "jasjdja sdjpasjdopas dasjhdj asjkdasg ash dasd"
-    }
-  ],
-  "Districts": [
-    {
-      "district": "Pervomayskiy",
-      "number": 23156
-    },
-    {
-      "district": "Oktyabrskiy",
-      "number": 12365
-    },
-    {
-      "district": "Leninskiy",
-      "number": 35495
-    },
-    {
-      "district": "Sverdlovskiy",
-      "number": 56498
+      "title": "To Do",
+      "description": "iasdsajansckamsclancajsncjkasncn",
+      "date": "12.03.2022"
     }
   ],
   "profile": {
